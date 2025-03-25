@@ -1,0 +1,16 @@
+a=10
+b=2
+add=a+b
+sub=a-b
+mul=a*b
+div=a/b
+modulus=a%b
+floordiv=a//b
+exponential=a**b
+print(add)
+print(sub)
+print(mul)
+print(div)
+print(modulus)
+print(floordiv)
+print(exponential)
